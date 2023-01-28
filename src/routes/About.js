@@ -1,5 +1,5 @@
-import { Component } from "../core/cooder";
-import aboutStore from "../store/about"
+import { Component } from "../core/cooder.js";
+import aboutStore from "../store/about.js"
 
 export default class About extends Component{
     render() {

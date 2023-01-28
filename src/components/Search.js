@@ -1,5 +1,5 @@
-import { Component } from "../core/cooder";
-import movieStore, { searchMovies } from '../store/movie'
+import { Component } from "../core/cooder.js";
+import movieStore, { searchMovies } from '../store/movie.js'
 
 export default class Search extends Component {
     render() {

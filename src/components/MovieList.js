@@ -1,4 +1,4 @@
-import { Component } from "../core/cooder";
+import { Component } from "../core/cooder.js";
 import movieStore from "../store/movie";
 import MovieItem from "./MovieItem";
 

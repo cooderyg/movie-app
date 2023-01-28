@@ -1,4 +1,4 @@
-import { Store } from "../core/cooder";
+import { Store } from "../core/cooder.js";
 
 const store = new Store({ 
     searchText: '',

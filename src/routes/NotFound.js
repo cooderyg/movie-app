@@ -1,4 +1,4 @@
-import { Component } from "../core/cooder";
+import { Component } from "../core/cooder.js";
 
 export default class NotFound extends Component {
     render() {

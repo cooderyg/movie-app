@@ -1,8 +1,8 @@
-import { createRouter } from '../core/cooder'
-import Home from './Home'
-import Movie from './Movie'
-import About from './About'
-import NotFound from './NotFound'
+import { createRouter } from '../core/cooder.js'
+import Home from './Home.js'
+import Movie from './Movie.js'
+import About from './About.js'
+import NotFound from './NotFound.js'
 
 export default createRouter([
     { path:'#/', component: Home },

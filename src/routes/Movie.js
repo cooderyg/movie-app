@@ -1,5 +1,5 @@
-import { Component } from "../core/cooder";
-import movieStore, { getMovieDetails } from '../store/movie'
+import { Component } from "../core/cooder.js";
+import movieStore, { getMovieDetails } from '../store/movie.js'
 
 
 export default class Movie extends Component {

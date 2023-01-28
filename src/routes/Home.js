@@ -1,8 +1,8 @@
-import { Component } from "../core/cooder";
-import Headline from "../components/Headline";
-import Search from "../components/Search";
-import MovieList from "../components/MovieList";
-import MovieListMore from "../components/MovieListMore";
+import { Component } from "../core/cooder.js";
+import Headline from "../components/Headline.js";
+import Search from "../components/Search.js";
+import MovieList from "../components/MovieList.js";
+import MovieListMore from "../components/MovieListMore.js";
 
 export default class Home extends Component {
     render() {
