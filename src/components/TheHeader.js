@@ -48,7 +48,7 @@ export default class TheHeader extends Component {
                 </ul>
             </nav>
             <a href="#/about" class="user">
-                <img src="http://cooder.kr/img/logo_movie.png">
+                <img src="../img/logo_movie.png">
             </a>
         ` 
     }
