@@ -11,7 +11,7 @@ export default class TheFooter extends Component {
         // const { github, repository } = aboutStore.state
         this.el.innerHTML = /*html*/ `
             <div>
-                <a>
+                <a href="http://github.com/cooderyg/vanillajs-movie-app">
                     GitHub Repository
                 </a>
             </div>
@@ -25,5 +25,5 @@ export default class TheFooter extends Component {
     }
 }
 
-// href="http://github.com/cooderYG/vanillajs-movie-app"
+// href="http://github.com/cooderyg/vanillajs-movie-app"
 // href="http://github.com/cooderYG/vanillajs-movie-app"
