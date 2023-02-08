@@ -11,7 +11,7 @@ export default class TheFooter extends Component {
         // const { github, repository } = aboutStore.state
         this.el.innerHTML = /*html*/ `
             <div>
-                <a href="http://github.com/cooderyg/vanillajs-movie-app">
+                <a href="https://github.com/cooderyg/movie-app">
                     GitHub Repository
                 </a>
             </div>
